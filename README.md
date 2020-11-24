@@ -13,6 +13,12 @@
 ***My Professional Skills:***<br>
 Problem Solving | Time Management | Communications Skills | Remote-Work | Team-Work | Leadership | Mentorship | Creativity | Attention to Details.
 
+***My Statistics:***
+- <b>Repositories: 33</b>
+- <b>Pull requests: 57</b>
+- <b>Commits: 421</b>
+
+
 ***Do I Sound Like a Good Fit For Your Team?***
 <br>
 Get in touch with me at eng.fahadumer@gmail.com or through my linkedIn (link above).
