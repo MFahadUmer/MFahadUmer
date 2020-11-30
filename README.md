@@ -1,6 +1,6 @@
 ![Screenshot](./images/background.jpg)
 
-### Hi there 👋, I'm Muhammad Fahad from Pakistan, I'm a Full Stack Web Developer, Working Remotely. 
+### Hi there 👋, I'm Muhammad Fahad from Pakistan, I'm a Full-Stack Developer, Working Remotely. 
 ### And I'm Open for Job Offers ! :tada:
  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fahad-umer/)
