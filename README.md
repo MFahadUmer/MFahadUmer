@@ -1,5 +1,3 @@
-![Screenshot](./images/background.jpg)
-
 ### Hi there 👋, I'm Muhammad Fahad from Pakistan, I'm a Full-Stack Developer, Working Remotely. 
 ### And I'm Open for Job Offers ! :tada:
  
